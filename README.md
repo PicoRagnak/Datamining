@@ -1,7 +1,7 @@
 # Datamining
 This is a repository for datamining practicing.
 
-**别忘了把路径改了**
+**使用时进行路径修改**
 
 另：没有处理覆写问题，所以调试的时候记得把上一次的文件删了
 
